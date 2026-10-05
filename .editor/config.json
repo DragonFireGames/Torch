@@ -1,0 +1,13 @@
+{
+  "serverType": "static",
+  "domain": "http://localhost:3000/",
+  "path": "/",
+  "rootfolder": "/",
+  "runfile": "/index.html",
+  "nodeCommand": "node server.js",
+  "cwd": "/",
+  "autoClear": true,
+  "usePeerServer": false,
+  "peerLayer": "jQQUXe",
+  "saveEnvironmentVariables": false
+}

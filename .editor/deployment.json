@@ -1,0 +1,11 @@
+{
+  "thirdParty": false,
+  "externalUrl": "",
+  "branch": "main",
+  "commit": "latest",
+  "path": "/",
+  "repo": {
+    "owner": "DragonFireGames",
+    "name": "Torch"
+  }
+}
